@@ -1,1 +1,2 @@
 # tindog
+Author-Megha Garg
